@@ -1,0 +1,1 @@
+This is an introduction of my basic recipe website. It will have a main index page with links to a few recipes. It won't look pretty without CSS.
